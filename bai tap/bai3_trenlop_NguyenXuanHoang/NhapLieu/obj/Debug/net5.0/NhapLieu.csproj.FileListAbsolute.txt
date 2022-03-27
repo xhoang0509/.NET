@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.exe
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.deps.json
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.json
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.dll
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\ref\NhapLieu.dll
+C:\Users\Admin\source\repos\Bai3\NhapLieu\bin\Debug\net5.0\NhapLieu.pdb
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.dll
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\ref\NhapLieu.dll
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.pdb
+C:\Users\Admin\source\repos\Bai3\NhapLieu\obj\Debug\net5.0\NhapLieu.genruntimeconfig.cache

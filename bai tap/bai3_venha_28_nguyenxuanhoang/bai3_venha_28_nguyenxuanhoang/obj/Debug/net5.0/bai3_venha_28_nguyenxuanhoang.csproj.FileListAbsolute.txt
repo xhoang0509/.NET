@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.exe
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.deps.json
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.runtimeconfig.json
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.dll
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\ref\bai3_venha_28_nguyenxuanhoang.dll
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\bin\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.pdb
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.dll
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\ref\bai3_venha_28_nguyenxuanhoang.dll
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.pdb
+C:\Users\Admin\source\repos\bai3_venha_28_nguyenxuanhoang\bai3_venha_28_nguyenxuanhoang\obj\Debug\net5.0\bai3_venha_28_nguyenxuanhoang.genruntimeconfig.cache

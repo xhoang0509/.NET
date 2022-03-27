@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bai3_venha_28_nguyenxuanhoang/1.0.0": {
+        "runtime": {
+          "bai3_venha_28_nguyenxuanhoang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai3_venha_28_nguyenxuanhoang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

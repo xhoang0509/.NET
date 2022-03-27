@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.exe
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.deps.json
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.json
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.dll
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\ref\CauTruc.dll
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\bin\Debug\net5.0\CauTruc.pdb
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.dll
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\ref\CauTruc.dll
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.pdb
+C:\Users\Admin\source\repos\bai3_VeNha_NguyenXuanHoang\CauTruc\obj\Debug\net5.0\CauTruc.genruntimeconfig.cache

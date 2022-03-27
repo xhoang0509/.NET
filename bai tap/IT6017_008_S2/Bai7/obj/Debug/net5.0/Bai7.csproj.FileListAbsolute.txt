@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.exe
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\ref\Bai7.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\bin\Debug\net5.0\Bai7.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\ref\Bai7.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\Bai7\obj\Debug\net5.0\Bai7.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\ref\XepLoaiHS.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache

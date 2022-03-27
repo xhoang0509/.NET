@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.exe
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\ref\DanhSach.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\bin\Debug\net5.0\DanhSach.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\ref\DanhSach.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\DanhSach\obj\Debug\net5.0\DanhSach.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.exe
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\ref\HinhChuNhat.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\bin\Debug\net5.0\HinhChuNhat.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\ref\HinhChuNhat.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\HinhChuNhat\obj\Debug\net5.0\HinhChuNhat.genruntimeconfig.cache

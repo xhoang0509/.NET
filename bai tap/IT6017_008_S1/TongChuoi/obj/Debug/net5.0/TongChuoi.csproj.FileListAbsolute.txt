@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.exe
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\ref\TongChuoi.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\bin\Debug\net5.0\TongChuoi.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\ref\TongChuoi.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\TongChuoi\obj\Debug\net5.0\TongChuoi.genruntimeconfig.cache

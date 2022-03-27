@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.exe
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.deps.json
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.json
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.dll
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\ref\TachDay.dll
+C:\Users\Admin\source\repos\Bai3\TachDay\bin\Debug\net5.0\TachDay.pdb
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.dll
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\ref\TachDay.dll
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.pdb
+C:\Users\Admin\source\repos\Bai3\TachDay\obj\Debug\net5.0\TachDay.genruntimeconfig.cache

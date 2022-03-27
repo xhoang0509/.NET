@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.exe
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\ref\HeCoSo.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\bin\Debug\net5.0\HeCoSo.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\ref\HeCoSo.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\HeCoSo\obj\Debug\net5.0\HeCoSo.genruntimeconfig.cache

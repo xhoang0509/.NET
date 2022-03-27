@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.exe
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\ref\CanBacHai.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\bin\Debug\net5.0\CanBacHai.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\ref\CanBacHai.dll
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.pdb
+C:\Users\Admin\source\repos\IT6017_008_S1\CanBacHai\obj\Debug\net5.0\CanBacHai.genruntimeconfig.cache

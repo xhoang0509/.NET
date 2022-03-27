@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.exe
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.deps.json
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.json
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\ref\GiaiThua.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\bin\Debug\net5.0\GiaiThua.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\ref\GiaiThua.dll
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.pdb
+C:\Users\Admin\source\repos\IT6017_008_S2\GiaiThua\obj\Debug\net5.0\GiaiThua.genruntimeconfig.cache
