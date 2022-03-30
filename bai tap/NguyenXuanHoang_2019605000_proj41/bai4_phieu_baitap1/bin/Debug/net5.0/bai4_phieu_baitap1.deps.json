@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "bai4_phieu_baitap1/1.0.0": {
+        "runtime": {
+          "bai4_phieu_baitap1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai4_phieu_baitap1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

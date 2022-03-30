@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.exe
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.deps.json
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.runtimeconfig.json
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.dll
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\ref\bai4_phieu_baitap1.dll
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\bin\Debug\net5.0\bai4_phieu_baitap1.pdb
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.dll
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\ref\bai4_phieu_baitap1.dll
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.pdb
+C:\Users\Admin\source\repos\bai4_phieu_baitap1\bai4_phieu_baitap1\obj\Debug\net5.0\bai4_phieu_baitap1.genruntimeconfig.cache
