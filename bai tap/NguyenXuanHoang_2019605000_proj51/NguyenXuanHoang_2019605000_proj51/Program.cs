@@ -26,15 +26,35 @@ namespace NguyenXuanHoang_2019605000_proj51
             }
         }
 
-        // hien thi theo tong diem tang dan
+        // hien thi theo tong diem >= so
         static void hienThiTheoTongDiem()
         {
-            dsTS.Sort();
+            Console.Write("Nhap mot diem bat ky: ");
+            float diem = float.Parse(Console.ReadLine());
+            Console.WriteLine("\n\t\tDANH SACH THI SINH CO TONG DIEM >= " + diem);
+            ThiSinh.inTieuDe();
+            foreach (ThiSinh item in dsTS)
+            {
+                if (item.tongDiem() >= diem)
+                {
+                    item.xuat();
+                }
+            }
 
         }
         static void hienThiTheoDiaChi()
         {
-            dsTS.Sort(new CompareAddress());
+            Console.Write("Nhap dia chi can tim: ");
+            string diaChiTemp = Console.ReadLine();
+            Console.WriteLine("\n\t\tDANH SACH THI SINH O " + diaChiTemp);
+            ThiSinh.inTieuDe();
+            foreach (ThiSinh item in dsTS)
+            {
+                if (item.diaChi.Equals(diaChiTemp))
+                {
+                    item.xuat();
+                }
+            }
         }
 
         static void timKiemSBD()
@@ -44,12 +64,13 @@ namespace NguyenXuanHoang_2019605000_proj51
             sdb = Console.ReadLine();
             ThiSinh x = dsTS.Find(x => x.soBD.Contains(sdb));
 
-            if(x  != null)
+            if (x != null)
             {
                 Console.WriteLine("\nTim thay");
                 ThiSinh.inTieuDe();
                 x.xuat();
-            } else
+            }
+            else
             {
                 Console.WriteLine("Khong tim thay");
             }
@@ -85,20 +106,16 @@ namespace NguyenXuanHoang_2019605000_proj51
                     case 3:
                         {
                             hienThiTheoTongDiem();
-                            Console.WriteLine("\n\t\tDANH SACH SAP XEP THEO TONG DIEM LA");
-                            xuat();
                             break;
                         }
                     case 4:
                         {
                             hienThiTheoDiaChi();
-                            Console.WriteLine("\n\t\tDANH SACH SAP XEP THEO DIA CHI LA");
-                            xuat();
                             break;
                         }
                     case 5:
                         {
-                            timKiemSBD();                            
+                            timKiemSBD();
                             break;
                         }
                 }

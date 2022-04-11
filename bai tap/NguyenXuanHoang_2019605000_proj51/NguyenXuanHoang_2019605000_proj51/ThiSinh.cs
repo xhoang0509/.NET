@@ -10,7 +10,7 @@ namespace NguyenXuanHoang_2019605000_proj51
     {
         public string soBD;
         private string hoTen;
-        public string diaChi;
+        public string diaChi { get; set; }
         float toan, ly, hoa, diemUT;
 
         public void nhap()
