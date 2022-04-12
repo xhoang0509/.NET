@@ -1,0 +1,16 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\ref\NguyenXuanHoang_2019605000_proj62.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\bin\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\ref\NguyenXuanHoang_2019605000_proj62.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62\obj\Debug\net5.0\NguyenXuanHoang_2019605000_proj62.genruntimeconfig.cache

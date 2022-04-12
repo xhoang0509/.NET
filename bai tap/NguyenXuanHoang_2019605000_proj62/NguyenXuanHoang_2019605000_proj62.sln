@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NguyenXuanHoang_2019605000_proj62", "NguyenXuanHoang_2019605000_proj62\NguyenXuanHoang_2019605000_proj62.csproj", "{572C7F71-9761-4342-91BE-6C8F9D872C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai_tap_1", "bai_tap_1\bai_tap_1.csproj", "{A75CF444-C1EC-40AC-B0C1-8E892B3F14C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572C7F71-9761-4342-91BE-6C8F9D872C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572C7F71-9761-4342-91BE-6C8F9D872C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572C7F71-9761-4342-91BE-6C8F9D872C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572C7F71-9761-4342-91BE-6C8F9D872C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75CF444-C1EC-40AC-B0C1-8E892B3F14C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75CF444-C1EC-40AC-B0C1-8E892B3F14C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75CF444-C1EC-40AC-B0C1-8E892B3F14C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75CF444-C1EC-40AC-B0C1-8E892B3F14C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C7B30F-6CC7-4213-BAC1-2F914375D40E}
+	EndGlobalSection
+EndGlobal
