@@ -1,0 +1,16 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\ref\DE02.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\bin\Debug\net5.0\DE02.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\ref\DE02.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\kiem tra\DE02\DE02\obj\Debug\net5.0\DE02.genruntimeconfig.cache
