@@ -1,0 +1,20 @@
+﻿<Window x:Class="De01OnTap.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De01OnTap"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="dgDSBN" AutoGenerateColumns="False" Margin="113,115,146,137" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding MaBn}" Width="100"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}" Width="100"/>
+                <DataGridTextColumn Header="Tên khoa" Binding="{Binding TenKhoa}" Width="100"/>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}" Width="120"/>
+                <DataGridTextColumn Header="Viện phí" Binding="{Binding VienPhi, StringFormat='\{0:n0\}'}" Width="100" FontWeight="Bold"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
