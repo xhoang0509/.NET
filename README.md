@@ -1,2 +1,2 @@
 # C# OOP
-# WFP with entity framework
+# WPF with entity framework
