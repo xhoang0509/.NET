@@ -14,22 +14,22 @@ namespace NguyenXuanHoang_2019605000_proj63
 
         public void InputStudent()
         {
-            Console.WriteLine("Nhap studentid: ");
+            Console.Write("Nhap studentid: ");
             studentid = int.Parse(Console.ReadLine());
-            Console.WriteLine("Nhap name: ");
+            Console.Write("Nhap name: ");
             name = Console.ReadLine();
-            Console.WriteLine("Nhap mark: ");
+            Console.Write("Nhap mark: ");
             mark = Console.ReadLine();
         }
 
         public static void Title()
         {
-            Console.WriteLine("{0,-10}{2,-10}{2,-10}", "studentid", "name", "mark");
+            Console.WriteLine("{0,-15}{2,-15}{2,-15}", "studentid", "name", "mark");
         }
 
         public override string ToString()
         {
-            return string.Format("{0,-10}{2,-10}{2,-10}", studentid,name,mark);
+            return string.Format("{0,-15}{2,-15}{2,-15}", studentid,name,mark);
         }
     }
 }

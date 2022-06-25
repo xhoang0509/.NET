@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bai7_NguyenXuanHoang_000_P2/1.0.0": {
+        "runtime": {
+          "Bai7_NguyenXuanHoang_000_P2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai7_NguyenXuanHoang_000_P2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

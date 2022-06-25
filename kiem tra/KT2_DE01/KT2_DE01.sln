@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KT2_DE01", "KT2_DE01\KT2_DE01.csproj", "{53A62843-0FE8-4D1D-8791-5F438AB16242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KT2_DE02", "KT2_DE02\KT2_DE02.csproj", "{DA05390E-EA4A-4435-90E3-B0046F27D4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A62843-0FE8-4D1D-8791-5F438AB16242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A62843-0FE8-4D1D-8791-5F438AB16242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A62843-0FE8-4D1D-8791-5F438AB16242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A62843-0FE8-4D1D-8791-5F438AB16242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA05390E-EA4A-4435-90E3-B0046F27D4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA05390E-EA4A-4435-90E3-B0046F27D4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA05390E-EA4A-4435-90E3-B0046F27D4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA05390E-EA4A-4435-90E3-B0046F27D4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9173396-E792-4A30-8A14-8F82568643D1}
+	EndGlobalSection
+EndGlobal

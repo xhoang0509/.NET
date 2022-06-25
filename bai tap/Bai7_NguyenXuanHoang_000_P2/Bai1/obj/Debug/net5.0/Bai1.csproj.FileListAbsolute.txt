@@ -1,0 +1,16 @@
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.exe
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.deps.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\ref\Bai1.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\bin\Debug\net5.0\Bai1.pdb
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\ref\Bai1.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.pdb
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai1\obj\Debug\net5.0\Bai1.csproj.AssemblyReference.cache

@@ -1,0 +1,32 @@
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.exe
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.deps.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.dev.json
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\ref\Bai4.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.pdb
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.csproj.AssemblyReference.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfoInputs.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfo.cs
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.csproj.CoreCompileInputs.cache
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\ref\Bai4.dll
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.pdb
+D:\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.genruntimeconfig.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\ref\Bai4.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\bin\Debug\net5.0\Bai4.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\ref\Bai4.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P2\Bai4\obj\Debug\net5.0\Bai4.genruntimeconfig.cache

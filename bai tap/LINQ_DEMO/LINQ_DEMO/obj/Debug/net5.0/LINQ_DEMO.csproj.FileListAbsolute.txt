@@ -1,0 +1,16 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\ref\LINQ_DEMO.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\bin\Debug\net5.0\LINQ_DEMO.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\ref\LINQ_DEMO.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\LINQ_DEMO\obj\Debug\net5.0\LINQ_DEMO.genruntimeconfig.cache

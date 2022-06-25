@@ -1,0 +1,16 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\ref\7.3.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\bin\Debug\net5.0\7.3.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\ref\7.3.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.3\obj\Debug\net5.0\7.3.genruntimeconfig.cache

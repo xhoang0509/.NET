@@ -1,0 +1,15 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\ref\7.5.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\bin\Debug\net5.0\7.5.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\ref\7.5.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\Bai7_NguyenXuanHoang_000_P1\7.5\obj\Debug\net5.0\7.5.genruntimeconfig.cache

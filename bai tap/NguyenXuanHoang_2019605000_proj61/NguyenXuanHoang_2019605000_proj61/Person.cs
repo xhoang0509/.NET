@@ -36,7 +36,7 @@ namespace NguyenXuanHoang_2019605000_proj61
 
         public virtual void Output()
         {
-            Console.Write("id: ${0}, name: {1}, address: {2}", id, name, address);
+            Console.Write("id: {0}, name: {1}, address: {2}", id, name, address);
         }
     }
 }

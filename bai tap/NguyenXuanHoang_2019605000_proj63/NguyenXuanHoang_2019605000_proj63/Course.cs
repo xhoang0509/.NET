@@ -20,15 +20,16 @@ namespace NguyenXuanHoang_2019605000_proj63
 
         public void InputCourse()
         {
-            Console.WriteLine("Nhap course id: ");
+            Console.Write("Nhap course id: ");
             courseid = Console.ReadLine();
-            Console.WriteLine("Nhap course name: ");
+            Console.Write("Nhap course name: ");
             courseName = Console.ReadLine();
-            Console.WriteLine("Nhap fee: ");
+            Console.Write("Nhap fee: ");
             fee = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Nhap so luong sinh vien: ");
+            Console.Write("Nhap so luong sinh vien: ");
             int lenghtListStudent = int.Parse(Console.ReadLine());
+            listStd = new List<Student>();
             for (int i = 0; i < lenghtListStudent; i++)
             {
                 Console.WriteLine("\n\t\tNhap sinh vien " + (i + 1));
@@ -50,16 +51,17 @@ namespace NguyenXuanHoang_2019605000_proj63
             {
                 Console.WriteLine(item);
             }
+            Console.WriteLine();
         }
 
         public List<Student> GetAllStudents()
         {
-            List<Student> temp = new List<Student>();
+            List<Student> listAddStudents = new List<Student>();
             foreach (var item in listStd)
             {
-                temp.Add(item);
+                listAddStudents.Add(item);
             }
-            return temp;
+            return listAddStudents;
         }
     }
 }

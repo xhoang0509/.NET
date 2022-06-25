@@ -1,0 +1,16 @@
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.exe
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.deps.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.runtimeconfig.dev.json
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\ref\Bai1.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\bin\Debug\net5.0\Bai1.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.csproj.AssemblyReference.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfoInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.AssemblyInfo.cs
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.csproj.CoreCompileInputs.cache
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\ref\Bai1.dll
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.pdb
+F:\HAUI\ki 6 3.2022 - 6.2022\lap trinh .net\c# basic\bai tap\LINQ_DEMO\Bai1\obj\Debug\net5.0\Bai1.genruntimeconfig.cache
