@@ -1,0 +1,72 @@
+﻿<Window x:Class="De02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De02"
+        mc:Ignorable="d"
+        Title="Quản lý nhân viên" Height="650" Width="800"
+        Loaded="window_loaded"
+        >
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman"/>
+            <Setter Property="Foreground" Value="Blue"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Style.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+        <Style TargetType="DataGrid">
+            <Style.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="FontSize" Value="14"/>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                </Style>
+            </Style.Resources>
+        </Style>
+        <Style x:Key="colorRed" TargetType="DataGridCell">
+            <Setter Property="HorizontalContentAlignment" Value="Right"/>
+            <Setter Property="Foreground" Value="red"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="Mã nhân viên" HorizontalAlignment="Left" Margin="50, 50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Họ tên" HorizontalAlignment="Left" Margin="50, 100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số ngày công" HorizontalAlignment="Left" Margin="50, 150,0,0" VerticalAlignment="Top"/>
+        <Label Content="Lương" HorizontalAlignment="Left" Margin="50, 200,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số phòng" HorizontalAlignment="Left" Margin="50, 250,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,50,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" Name="txtManv"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,100,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" Name="txtHoten"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,150,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" Name="txtSnc"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,200,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" Name="txtLuong"/>
+        <DataGrid 
+            HorizontalAlignment="Left" 
+            Height="181" 
+            Margin="50,328,0,0"
+            VerticalAlignment="Top" Width="650" Name="dgData" CanUserAddRows="False"
+            AutoGenerateColumns="False"
+            AlternatingRowBackground="LightBlue" SelectedCellsChanged="dgData_SelectedCellsChanged"
+                  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã phòng" Binding="{Binding MaPhong}" Width="*"/>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding MaNv}"  Width="*"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding Hoten}" Width="*"/>
+                <DataGridTextColumn Header="Số ngày công" Binding="{Binding Songaycong}" Width="*"/>
+                <DataGridTextColumn CellStyle="{StaticResource colorRed}" Header="Lương" Binding="{Binding Luong}" Width="*"/>
+                <DataGridTextColumn CellStyle="{StaticResource colorRed}" Header="Thưởng" Binding="{Binding Thuong}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="cbPhongBan" HorizontalAlignment="Left" Height="26" Margin="250,250,0,0" VerticalAlignment="Top" Width="200" />
+        <Button x:Name="txtAdd" Content="Thêm" HorizontalAlignment="Left" Margin="118,533,0,0" VerticalAlignment="Top" Height="28" Width="63" Click="txtAdd_Click"/>
+        <Button x:Name="txtEdit" Content="Sửa" HorizontalAlignment="Left" Margin="225,533,0,0" VerticalAlignment="Top" Height="28" Width="63" Click="txtEdit_Click"/>
+        <Button x:Name="txtDelete" Content="Xóa" HorizontalAlignment="Left" Margin="350,533,0,0" VerticalAlignment="Top" Height="28" Width="63" Click="txtDelete_Click"/>
+        <Button x:Name="txtSearch" Content="Tìm" HorizontalAlignment="Left" Margin="483,533,0,0" VerticalAlignment="Top" Height="28" Width="63" Click="txtSearch_Click"/>
+    </Grid>
+</Window>

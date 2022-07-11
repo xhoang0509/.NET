@@ -32,8 +32,8 @@ namespace QLBanHang
 
         private void window_loaded(object sender, RoutedEventArgs e)
         {
-            HienThiDuLieu();
             HienThiCB();
+            HienThiDuLieu();
         }
         private void HienThiDuLieu()
         {
@@ -107,7 +107,7 @@ namespace QLBanHang
                     PropertyInfo[] p = t.GetProperties();
                     txtMaSP.Text = p[0].GetValue(itemSelected).ToString();
                     txtTenSP.Text = p[1].GetValue(itemSelected).ToString();
-                    cbLoaiSP.SelectedValue = p[2].GetValue(itemSelected).ToString();
+                    cbLoaiSP.SelectedValue = p[2].GetValue(itemSelected).ToString();                    
                     txtSoLuong.Text = p[3].GetValue(itemSelected).ToString();
                     txtDonGia.Text = p[4].GetValue(itemSelected).ToString();
                 }
